@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/James/AndroidStudioProjects/Assessment/app/src/main/res/drawable/ic_android_svgrepo_com.xml" value="0.35833333333333334" />
+        <entry key="..\:/Users/James/AndroidStudioProjects/Assessment/app/src/main/res/drawable/ic_launcher_background.xml" value="0.35833333333333334" />
+        <entry key="..\:/Users/James/AndroidStudioProjects/Assessment/app/src/main/res/drawable/ic_splash_icon_background.xml" value="0.35833333333333334" />
+        <entry key="..\:/Users/James/AndroidStudioProjects/Assessment/app/src/main/res/drawable/ic_splash_icon_foreground.xml" value="0.35833333333333334" />
+        <entry key="..\:/Users/James/AndroidStudioProjects/Assessment/app/src/main/res/drawable/splash_screen.xml" value="0.35833333333333334" />
+        <entry key="..\:/Users/James/AndroidStudioProjects/Assessment/app/src/main/res/layout/acitivity_splash_screen.xml" value="0.371875" />
+        <entry key="..\:/Users/James/AndroidStudioProjects/Assessment/app/src/main/res/layout/activity_list.xml" value="0.371875" />
+        <entry key="..\:/Users/James/AndroidStudioProjects/Assessment/app/src/main/res/layout/activity_main.xml" value="0.371875" />
+        <entry key="..\:/Users/James/AndroidStudioProjects/Assessment/app/src/main/res/layout/activity_news.xml" value="0.5" />
+        <entry key="..\:/Users/James/AndroidStudioProjects/Assessment/app/src/main/res/layout/activity_splash_screen.xml" value="0.3578125" />
+        <entry key="..\:/Users/James/AndroidStudioProjects/Assessment/app/src/main/res/layout/news_list_item.xml" value="0.33" />
+        <entry key="..\:/Users/James/AndroidStudioProjects/Assessment/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.35833333333333334" />
+        <entry key="..\:/Users/James/AndroidStudioProjects/Assessment/app/src/main/res/mipmap-anydpi-v26/ic_splash_icon.xml" value="0.35833333333333334" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
